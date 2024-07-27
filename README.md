@@ -6,7 +6,7 @@ PlanMyBudget is a web app where users can store their monthly budget and track t
 
 ```
 # Clone the repository with:
-  git clone [link]
+  git clone https://github.com/Jainex17/PlanMyBudget.git
 
 # Install dependencies:
   npm install
