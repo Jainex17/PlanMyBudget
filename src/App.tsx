@@ -5,7 +5,7 @@ import { Review } from "./components/Review";
 import { useAppContext } from "./AppContext";
 import { History } from "./components/History";
 
-import { ToastContainer, toast } from 'react-toastify';
+import { ToastContainer } from 'react-toastify';
   import 'react-toastify/dist/ReactToastify.css';
 
 function App() {
